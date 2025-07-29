@@ -4,6 +4,8 @@
 
 ## 教材形式
 
+* 【講義】パワーポイント教材（PPT,PDF）＋台本（Word） ⇒ 音読さんTTS（MP4）
+* 【演習】以下の通り
 * Google colab版: 直接colab環境で実行できる形式（変更したければ個々人のGoogleドライブへコピーが必要）
 * HTML版: Jupyter Notebook版からのHTMLエクスポート (HTML)
 * PDF版: Jupyter Notebook版からのPDFエクスポート (PDF)
@@ -18,26 +20,30 @@
 
 ## 目次
 
-1. AIの歴史と応⽤分野（☆）、AIと社会（☆）
-2. 機械学習の基礎と展望（☆）
-3. 生成AIの基礎と展望（☆改定・追加）
-4. 演習環境の使い方とプログラミング言語の演習（演習）
-5. サポートベクターマシンの演習（演習）
-6. 深層学習の基礎と展望（☆）
-7. AIの構築と運⽤（☆）
-8. 畳み込みニューラルネットワークの演習（演習）
+1. AIの歴史と応⽤分野（☆）、AIと社会（☆）【講義】
+2. 機械学習の基礎と展望（☆）【講義】
+3. 生成AIの基礎と展望（☆改定・追加）【講義】
+4. 演習環境の使い方とプログラミング言語の演習【演習】
+5. サポートベクターマシンの演習【演習】
+6. 深層学習の基礎と展望（☆）【講義】
+7. AIの構築と運⽤（☆）【講義】
+8. 畳み込みニューラルネットワークの演習【演習】
 
 # memo
 
 2025.2.26 URL変更された (common, otherサーバ)
+2025.7.30 【講義】【演習】形式で教材の取り扱いが異なることを記述（杉浦先生、岡野先生）
+
+## 数理DS 新必修2科目（年度更新されない版） URL
+
+* 新DS・DE基礎(構築中) <https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=86>
+* 新AI基礎(コレ。構築中) <https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=89>
 
 ## 数理DS コア3科目（年度更新されない版） URL
 
 * DS基礎 <https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=87>
 * DE基礎 <https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=88>
-
-* 新DS・DE基礎(構築中) <https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=86>
-* 新AI基礎(構築中) <https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=89>
+* AI基礎は新AI基礎にマイグレーション済　<https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=89>
 
 ## 工学部 学部共通科目 データサイエンス科目（2023 R5年度版）　URL
 
