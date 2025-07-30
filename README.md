@@ -6,7 +6,6 @@
 
 * 【講義】パワーポイント教材（PPT,PDF）＋台本（Word） ⇒ 音読さんTTS（MP4）
 * Google共有フォルダ　https://drive.google.com/open?id=1NIXB5zqBMaTnd6nPwGdN9frX40uVB2Xq&usp=drive_fs
-
 * 【演習】以下の通り
 * Google colab版: 直接colab環境で実行できる形式（変更したければ個々人のGoogleドライブへコピーが必要）
 * HTML版: Jupyter Notebook版からのHTMLエクスポート (HTML)
