@@ -4,7 +4,7 @@
 
 ## 教材形式
 
-* 【講義】パワーポイント教材（PPT,PDF）＋台本（Word） ⇒ 音読さんTTS（MP4）
+* 【講義】パワーポイント教材（PPT,PDF）＋台本（Word） ⇒ VoicePeakTTS（MP4）
 * Google共有フォルダ　https://drive.google.com/open?id=1NIXB5zqBMaTnd6nPwGdN9frX40uVB2Xq&usp=drive_fs
 * 【演習】以下の通り
 * Google colab版: 直接colab環境で実行できる形式（変更したければ個々人のGoogleドライブへコピーが必要）
@@ -34,6 +34,9 @@
 
 * 2025.2.26 URL変更された (common, otherサーバ)
 * 2025.7.30 【講義】【演習】形式で教材の取り扱いが異なることを記述（杉浦先生、岡野先生）
+* 2025.7.31 【講義】sec.1,2,3,6,7のパワポ、PDFが第1.1版となる（杉浦先生）
+* 2025.9.10 【講義】sec.1,2,3,6,7のパワポ、PDFに基づいたVoicePeak TTSによる動画教材が出来上がる（岡野先生⇒杉浦先生）
+
 
 ## 数理DS 新必修2科目（年度更新されない版） URL
 
