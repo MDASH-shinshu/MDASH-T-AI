@@ -1,0 +1,274 @@
+// question: 0  name: Switch category to $course$/top/課題_AI3-4_深層学習の基礎と展望
+$CATEGORY: $course$/top/課題_AI3-4_深層学習の基礎と展望
+
+
+// question: 5235  name: Q07 CNNのパラメータ更新
+::Q07 CNNのパラメータ更新::[html]<p dir\="ltr">CNNのパラメータ更新で、学習率 η\=0.1、傾き ∂L/∂w \= 0.5 のとき、新しい重み w は？（初期値 w\=1）</p><p><br></p>{
+	=<p dir\="ltr">0.95</p>
+	~<p dir\="ltr" style\="text-align\: left;">&nbsp;0.90</p>#<p dir\="ltr" style\="text-align\: left;">計算を見直しましょう</p>
+	~<p dir\="ltr" style\="text-align\: left;">0.99</p>#<p dir\="ltr" style\="text-align\: left;">計算を見直しましょう<br></p>
+	~<p dir\="ltr" style\="text-align\: left;">0.10</p>#<p dir\="ltr" style\="text-align\: left;">計算を見直しましょう<br></p>
+}
+
+
+// question: 5256  name: Q1 ReLU関数
+::Q1 ReLU関数::[html]<p dir\="ltr">ReLU関数 f(u) \= max(0, u) において、u \= -3 のときの出力は？</p><p><br></p>{
+	~<p dir\="ltr" style\="text-align\: left;">1</p>#<p dir\="ltr" style\="text-align\: left;">定義と計算をみなおしましょう</p>
+	~<p dir\="ltr" style\="text-align\: left;">-3</p>#<p dir\="ltr" style\="text-align\: left;">定義と計算をみなおしましょう<br></p>
+	=<p dir\="ltr" style\="text-align\: left;">0</p>
+	~<p dir\="ltr" style\="text-align\: left;">3</p>#<p dir\="ltr" style\="text-align\: left;">定義と計算をみなおしましょう<br></p>
+}
+
+
+// question: 5264  name: Q10 重み計算
+::Q10 重み計算::[html]<p dir\="ltr">重みと入力で、u1 \= w1x1 + w2x2 + w3x3 + b とする。w \= [1, 2, 3], x \= [5, 10, 1], b \= -3</p><p dir\="ltr">のとき、u1の値は？</p><p><br></p>{
+	=<p dir\="ltr" style\="text-align\: left;">25</p>
+	~<p dir\="ltr" style\="text-align\: left;">28</p>#<p dir\="ltr" style\="text-align\: left;">計算を見直しましょう</p>
+	~<p dir\="ltr" style\="text-align\: left;">20</p>#<p dir\="ltr" style\="text-align\: left;">計算を見直しましょう<br></p>
+	~<p dir\="ltr" style\="text-align\: left;">0</p>#<p dir\="ltr" style\="text-align\: left;">計算を見直しましょう<br></p>
+}
+
+
+// question: 5236  name: Q11. CNNの主な利点
+::Q11. CNNの主な利点::[html]CNNの主な利点はどれか？{
+	~A. 分類精度は低い
+	~B. 計算が常に早い
+	~C. テキスト処理に特化している
+	=D. 画像の特徴を自動で抽出できる
+}
+
+
+// question: 5237  name: Q12. ReLU関数の特性
+::Q12. ReLU関数の特性::[html]ReLU関数の特性として正しいものは？{
+	=A. 0以下は0になる
+	~B. 入力値と無関係な定数を返す
+	~C. 確率を出力する
+	~D. 常に1を出力する
+}
+
+
+// question: 5238  name: Q13. Softmax関数の特徴
+::Q13. Softmax関数の特徴::[html]Softmax関数の出力の特徴は？{
+	=A. 合計が1になる
+	~B. 負の値を出す
+	~C. すべて0になる
+	~D. 合計が100になる
+}
+
+
+// question: 5239  name: Q14. 活性化関数
+::Q14. 活性化関数::[html]活性化関数が必要な理由は？{
+	=A. 非線形性を導入するため
+	~B. 学習率を制御するため
+	~C. パラメータを増やすため
+	~D. 計算時間を短縮するため
+}
+
+
+// question: 5240  name: Q15. 畳み込み処理において使われる行列
+::Q15. 畳み込み処理において使われる行列::[html]畳み込み処理において使われる行列は何と呼ばれるか？{
+	~A. プーリング
+	~B. 活性化関数
+	~C. スカラー
+	=D. カーネル
+}
+
+
+// question: 5241  name: Q16. マックスプーリング
+::Q16. マックスプーリング::[html]マックスプーリングの主な目的は？{
+	~A. 計算速度の低下
+	=B. 特徴量の圧縮
+	~C. パラメータの増加
+	~D. 誤差逆伝播の強化
+}
+
+
+// question: 5242  name: Q17. 勾配降下法
+::Q17. 勾配降下法::[html]勾配降下法とは？{
+	~A. 精度を上げる関数
+	~B. ラベル付けの手法
+	~C. 誤差を増幅する技術
+	=D. 損失関数の最小化を目指すアルゴリズム
+}
+
+
+// question: 5243  name: Q18. クロスエントロピー損失関数
+::Q18. クロスエントロピー損失関数::[html]クロスエントロピー損失関数は何に使われるか？{
+	~A. 画像生成
+	~B. 回帰問題
+	~C. クラスタリング
+	=D. 分類問題
+}
+
+
+// question: 5244  name: Q19. ドロップアウト
+::Q19. ドロップアウト::[html]ドロップアウトの目的は？{
+	~A. 精度の低下
+	~B. 処理速度の低下
+	=C. 過学習の防止
+	~D. 勾配の消失
+}
+
+
+// question: 5257  name: Q2 Softmax
+::Q2 Softmax::[html]<p dir\="ltr" style\="text-align\: left;">Softmax関数で、入力が [5, 4, -1] のとき、最大となる出力要素はどれ？</p>{
+	~<p dir\="ltr" style\="text-align\: left;">4</p>#<p dir\="ltr" style\="text-align\: left;">計算をみなおしましょう</p>
+	=<p dir\="ltr">出力はすべて等しい</p>#<p dir\="ltr" style\="text-align\: left;">計算をみなおしましょう<br></p>
+	~<p dir\="ltr" style\="text-align\: left;">-1</p>#<p dir\="ltr" style\="text-align\: left;">計算をみなおしましょう<br></p>
+	=<p dir\="ltr" style\="text-align\: left;">5</p>
+}
+
+
+// question: 5245  name: Q20. RNNの特徴
+::Q20. RNNの特徴::[html]RNNの特徴は？{
+	~A. 画像処理に特化
+	=B. 時系列データを扱う
+	~C. 非ニューラルモデル
+	~D. 勾配を使わない
+}
+
+
+// question: 5246  name: Q21. LSTMとRNN
+::Q21. LSTMとRNN::[html]LSTMがRNNと異なる点は？{
+	=A. 長期依存性を扱える
+	~B. 画像処理に使う
+	~C. 精度が常に低い
+	~D. 時系列を無視する
+}
+
+
+// question: 5247  name: Q22. TransformerとRNN
+::Q22. TransformerとRNN::[html]TransformerがRNNと異なる特徴は？{
+	=A. 並列処理が可能
+	~B. 回帰問題に特化
+	~C. 非教師あり学習
+	~D. 重みがない
+}
+
+
+// question: 5248  name: Q23. Self-Attentionの利点
+::Q23. Self-Attentionの利点::[html]Self-Attentionの利点は？{
+	~A. ラベル付け不要
+	=B. 長距離依存関係を効率よく捉える
+	~C. モデルが浅くなる
+	~D. 画像サイズの縮小
+}
+
+
+// question: 5249  name: Q24. 分散表現
+::Q24. 分散表現::[html]分散表現とは？{
+	~A. 構文解析の方式
+	=B. 意味的に近い単語が近く配置される表現
+	~C. 単語をランダムに並べたもの
+	~D. 画像の明度を表す
+}
+
+
+// question: 5250  name: Q25. コサイン類似度
+::Q25. コサイン類似度::[html]コサイン類似度が1に近いときの意味は？{
+	=A. ベクトルが類似している
+	~B. スカラー量である
+	~C. 異なる方向にある
+	~D. ベクトルが直交している
+}
+
+
+// question: 5251  name: Q26. 転移学習で使われる事前学習済みモデル
+::Q26. 転移学習で使われる事前学習済みモデル::[html]転移学習で使われる事前学習済みモデルの特徴は？{
+	~A. いつも小規模
+	=B. 多くのデータで学習済み
+	~C. 損失が最大
+	~D. ランダムパラメータ
+}
+
+
+// question: 5252  name: Q27. 敵対的生成ネットワーク（GAN）の生成器
+::Q27. 敵対的生成ネットワーク（GAN）の生成器::[html]敵対的生成ネットワーク（GAN）の生成器の目的は？{
+	=A. 識別器を騙すようなデータを作る
+	~B. 勾配を消す
+	~C. 損失を最小化する
+	~D. 正解を出力する
+}
+
+
+// question: 5253  name: Q28. 説明可能AI（XAI）
+::Q28. 説明可能AI（XAI）::[html]説明可能AI（XAI）の目的は？{
+	~A. 精度を下げる
+	~B. データを削除する
+	=C. 判断理由を人間が理解できるようにする
+	~D. 重みを初期化する
+}
+
+
+// question: 5254  name: Q29. 自然言語処理におけるOne-hot表現の代替
+::Q29. 自然言語処理におけるOne-hot表現の代替::[html]自然言語処理でOne-hot表現の代替として使われるのは？{
+	~A. 画像エンコード
+	~B. 量子回路
+	~C. カーネル法
+	=D. 分散表現
+}
+
+
+// question: 5258  name: Q3 クロスエントロピー損失関数
+::Q3 クロスエントロピー損失関数::[html]<p dir\="ltr">クロスエントロピー損失関数において、p(x)\=1, q(x)\=0.5 のときの損失 H(p, q) は？</p><p><br></p>{
+	~<p dir\="ltr" style\="text-align\: left;">0.344</p>#<p dir\="ltr" style\="text-align\: left;">計算を見直しましょう</p>
+	=<p dir\="ltr" style\="text-align\: left;">0.693</p>
+	~<p dir\="ltr" style\="text-align\: left;">0.145</p>#<p dir\="ltr" style\="text-align\: left;">計算を見直しましょう<br></p>
+	~<p dir\="ltr" style\="text-align\: left;">0.567</p>#<p dir\="ltr" style\="text-align\: left;">計算を見直しましょう<br></p>
+}
+
+
+// question: 5255  name: Q30. 感情分析で使われるラベル
+::Q30. 感情分析で使われるラベル::[html]感情分析で使われるラベルとして適切なのは？{
+	~A. Hot / Cold
+	~B. 1 / 0
+	~C. Open / Close
+	=D. Positive / Negative
+}
+
+
+// question: 5259  name: Q4 コサイン類似度
+::Q4 コサイン類似度::[html]<p dir\="ltr">次のベクトル x\=[2,5], y\=[4,3] のコサイン類似度は？</p><p><br></p>{
+	=<p dir\="ltr">0.854</p>
+	~<p dir\="ltr">1.000</p>#<p dir\="ltr" style\="text-align\: left;">計算を見直しましょう</p>
+	~<p dir\="ltr" style\="text-align\: left;">0.000</p>#<p dir\="ltr" style\="text-align\: left;">計算を見直しましょう<br></p>
+	~<p dir\="ltr">-0.854</p>#<p dir\="ltr" style\="text-align\: left;">計算を見直しましょう<br></p>
+}
+
+
+// question: 5260  name: Q5 ミニバッチ
+::Q5 ミニバッチ::[html]<p dir\="ltr" style\="text-align\: left;">ミニバッチサイズ4で20,000件のデータを学習する場合、イテレーション数は？</p>{
+	~<p dir\="ltr">2000</p>
+	=<p dir\="ltr">5000</p>
+	~<p dir\="ltr">4000</p>
+	~<p dir\="ltr">10000</p>
+}
+
+
+// question: 5261  name: Q6 ユークリッド距離
+::Q6 ユークリッド距離::[html]<p dir\="ltr">ユークリッド距離で (2,5) と (4,3) の距離は？</p><p><br></p>{
+	~<p dir\="ltr" style\="text-align\: left;">2</p>#<p dir\="ltr" style\="text-align\: left;">計算を見直しましょう</p>
+	~<p dir\="ltr" style\="text-align\: left;">1.414</p>#<p dir\="ltr" style\="text-align\: left;">計算を見直しましょう<br></p>
+	=<p dir\="ltr" style\="text-align\: left;">2.828</p>
+	~<p dir\="ltr" style\="text-align\: left;">3.000</p>#<p dir\="ltr" style\="text-align\: left;">計算を見直しましょう<br></p>
+}
+
+
+// question: 5262  name: Q8 画像データ正規化
+::Q8 画像データ正規化::[html]<p dir\="ltr">画像データを [0,255] → [0,1] に正規化するに除する値は？</p><p><br></p>{
+	=<p dir\="ltr">255</p>
+	~8
+	~<p dir\="ltr" style\="text-align\: left;">1024</p>
+	~<p dir\="ltr" style\="text-align\: left;">128</p>
+}
+
+
+// question: 5263  name: Q9 画像のピクセル数
+::Q9 画像のピクセル数::[html]<p dir\="ltr">CIFAR-10の1画像はRGB3チャンネル、32×32ピクセルである。1画像のピクセル数は？</p>{
+	~<p dir\="ltr" style\="text-align\: left;">4096</p>#<p dir\="ltr" style\="text-align\: left;">計算を見直しましょう</p>
+	~<p dir\="ltr">&nbsp;1024</p>#<p dir\="ltr" style\="text-align\: left;">計算を見直しましょう<br></p>
+	=<p dir\="ltr">3072</p>
+	~<p dir\="ltr" style\="text-align\: left;">1536</p>#<p dir\="ltr" style\="text-align\: left;">計算を見直しましょう<br></p>
+}
+
+
